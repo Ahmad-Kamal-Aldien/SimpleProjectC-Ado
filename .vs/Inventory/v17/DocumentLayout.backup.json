@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "N:\\Projects\\2024\\Inventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|n:\\projects\\2024\\inventory\\inventory\\forms\\usermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|solutionrelative:inventory\\forms\\usermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|n:\\projects\\2024\\inventory\\inventory\\forms\\topsellingproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|solutionrelative:inventory\\forms\\topsellingproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|n:\\projects\\2024\\inventory\\inventory\\forms\\salesinvoicesearchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|solutionrelative:inventory\\forms\\salesinvoicesearchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|n:\\projects\\2024\\inventory\\inventory\\forms\\salesinvoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|solutionrelative:inventory\\forms\\salesinvoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|n:\\projects\\2024\\inventory\\inventory\\forms\\purchaseinvoicesearchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|solutionrelative:inventory\\forms\\purchaseinvoicesearchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|n:\\projects\\2024\\inventory\\inventory\\forms\\purchaseinvoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|solutionrelative:inventory\\forms\\purchaseinvoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|n:\\projects\\2024\\inventory\\inventory\\forms\\productmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|solutionrelative:inventory\\forms\\productmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|n:\\projects\\2024\\inventory\\inventory\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|solutionrelative:inventory\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|n:\\projects\\2024\\inventory\\inventory\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|solutionrelative:inventory\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|n:\\projects\\2024\\inventory\\inventory\\forms\\salesinvoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|solutionrelative:inventory\\forms\\salesinvoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|n:\\projects\\2024\\inventory\\inventory\\forms\\usermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|solutionrelative:inventory\\forms\\usermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|n:\\projects\\2024\\inventory\\inventory\\forms\\productmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|solutionrelative:inventory\\forms\\productmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|n:\\projects\\2024\\inventory\\inventory\\helpers\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|solutionrelative:inventory\\helpers\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|n:\\projects\\2024\\inventory\\inventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|solutionrelative:inventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|n:\\projects\\2024\\inventory\\inventory\\forms\\purchaseinvoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|solutionrelative:inventory\\forms\\purchaseinvoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|n:\\projects\\2024\\inventory\\inventory\\forms\\topsellingproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|solutionrelative:inventory\\forms\\topsellingproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|n:\\projects\\2024\\inventory\\inventory\\forms\\salesinvoicesearchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D12AFA-9CEE-4C0A-A41A-7199C560BEA0}|Inventory\\Inventory.csproj|solutionrelative:inventory\\forms\\salesinvoicesearchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalesInvoiceForm.cs [Design]",
+              "DocumentMoniker": "N:\\Projects\\2024\\Inventory\\Inventory\\Forms\\SalesInvoiceForm.cs",
+              "RelativeDocumentMoniker": "Inventory\\Forms\\SalesInvoiceForm.cs",
+              "ToolTip": "N:\\Projects\\2024\\Inventory\\Inventory\\Forms\\SalesInvoiceForm.cs [Design]",
+              "RelativeToolTip": "Inventory\\Forms\\SalesInvoiceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:55:08.586Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PurchaseInvoiceSearchForm.cs [Design]",
+              "DocumentMoniker": "N:\\Projects\\2024\\Inventory\\Inventory\\Forms\\PurchaseInvoiceSearchForm.cs",
+              "RelativeDocumentMoniker": "Inventory\\Forms\\PurchaseInvoiceSearchForm.cs",
+              "ToolTip": "N:\\Projects\\2024\\Inventory\\Inventory\\Forms\\PurchaseInvoiceSearchForm.cs [Design]",
+              "RelativeToolTip": "Inventory\\Forms\\PurchaseInvoiceSearchForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:06:34.659Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesInvoiceSearchForm.cs [Design]",
+              "DocumentMoniker": "N:\\Projects\\2024\\Inventory\\Inventory\\Forms\\SalesInvoiceSearchForm.cs",
+              "RelativeDocumentMoniker": "Inventory\\Forms\\SalesInvoiceSearchForm.cs",
+              "ToolTip": "N:\\Projects\\2024\\Inventory\\Inventory\\Forms\\SalesInvoiceSearchForm.cs [Design]",
+              "RelativeToolTip": "Inventory\\Forms\\SalesInvoiceSearchForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:01:06.557Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TopSellingProductsForm.cs [Design]",
+              "DocumentMoniker": "N:\\Projects\\2024\\Inventory\\Inventory\\Forms\\TopSellingProductsForm.cs",
+              "RelativeDocumentMoniker": "Inventory\\Forms\\TopSellingProductsForm.cs",
+              "ToolTip": "N:\\Projects\\2024\\Inventory\\Inventory\\Forms\\TopSellingProductsForm.cs [Design]",
+              "RelativeToolTip": "Inventory\\Forms\\TopSellingProductsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:08:04.938Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserManagementForm.cs [Design]",
+              "DocumentMoniker": "N:\\Projects\\2024\\Inventory\\Inventory\\Forms\\UserManagementForm.cs",
+              "RelativeDocumentMoniker": "Inventory\\Forms\\UserManagementForm.cs",
+              "ToolTip": "N:\\Projects\\2024\\Inventory\\Inventory\\Forms\\UserManagementForm.cs [Design]",
+              "RelativeToolTip": "Inventory\\Forms\\UserManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:04:22.374Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PurchaseInvoiceForm.cs [Design]",
+              "DocumentMoniker": "N:\\Projects\\2024\\Inventory\\Inventory\\Forms\\PurchaseInvoiceForm.cs",
+              "RelativeDocumentMoniker": "Inventory\\Forms\\PurchaseInvoiceForm.cs",
+              "ToolTip": "N:\\Projects\\2024\\Inventory\\Inventory\\Forms\\PurchaseInvoiceForm.cs [Design]",
+              "RelativeToolTip": "Inventory\\Forms\\PurchaseInvoiceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:58:05.164Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductManagementForm.cs [Design]",
+              "DocumentMoniker": "N:\\Projects\\2024\\Inventory\\Inventory\\Forms\\ProductManagementForm.cs",
+              "RelativeDocumentMoniker": "Inventory\\Forms\\ProductManagementForm.cs",
+              "ToolTip": "N:\\Projects\\2024\\Inventory\\Inventory\\Forms\\ProductManagementForm.cs [Design]",
+              "RelativeToolTip": "Inventory\\Forms\\ProductManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:55:35.79Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "N:\\Projects\\2024\\Inventory\\Inventory\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Inventory\\Forms\\MainForm.cs",
+              "ToolTip": "N:\\Projects\\2024\\Inventory\\Inventory\\Forms\\MainForm.cs [Design]",
+              "RelativeToolTip": "Inventory\\Forms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:55:34.412Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "N:\\Projects\\2024\\Inventory\\Inventory\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Inventory\\Forms\\LoginForm.cs",
+              "ToolTip": "N:\\Projects\\2024\\Inventory\\Inventory\\Forms\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Inventory\\Forms\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:04:52.581Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SalesInvoiceForm.cs",
+              "DocumentMoniker": "N:\\Projects\\2024\\Inventory\\Inventory\\Forms\\SalesInvoiceForm.cs",
+              "RelativeDocumentMoniker": "Inventory\\Forms\\SalesInvoiceForm.cs",
+              "ToolTip": "N:\\Projects\\2024\\Inventory\\Inventory\\Forms\\SalesInvoiceForm.cs",
+              "RelativeToolTip": "Inventory\\Forms\\SalesInvoiceForm.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAFAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:49:58.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserManagementForm.cs",
+              "DocumentMoniker": "N:\\Projects\\2024\\Inventory\\Inventory\\Forms\\UserManagementForm.cs",
+              "RelativeDocumentMoniker": "Inventory\\Forms\\UserManagementForm.cs",
+              "ToolTip": "N:\\Projects\\2024\\Inventory\\Inventory\\Forms\\UserManagementForm.cs",
+              "RelativeToolTip": "Inventory\\Forms\\UserManagementForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:07:50.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductManagementForm.cs",
+              "DocumentMoniker": "N:\\Projects\\2024\\Inventory\\Inventory\\Forms\\ProductManagementForm.cs",
+              "RelativeDocumentMoniker": "Inventory\\Forms\\ProductManagementForm.cs",
+              "ToolTip": "N:\\Projects\\2024\\Inventory\\Inventory\\Forms\\ProductManagementForm.cs",
+              "RelativeToolTip": "Inventory\\Forms\\ProductManagementForm.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAiwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:58:02.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "N:\\Projects\\2024\\Inventory\\Inventory\\Helpers\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "Inventory\\Helpers\\DatabaseHelper.cs",
+              "ToolTip": "N:\\Projects\\2024\\Inventory\\Inventory\\Helpers\\DatabaseHelper.cs",
+              "RelativeToolTip": "Inventory\\Helpers\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:33:55.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "N:\\Projects\\2024\\Inventory\\Inventory\\Program.cs",
+              "RelativeDocumentMoniker": "Inventory\\Program.cs",
+              "ToolTip": "N:\\Projects\\2024\\Inventory\\Inventory\\Program.cs",
+              "RelativeToolTip": "Inventory\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:16:37.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PurchaseInvoiceForm.cs",
+              "DocumentMoniker": "N:\\Projects\\2024\\Inventory\\Inventory\\Forms\\PurchaseInvoiceForm.cs",
+              "RelativeDocumentMoniker": "Inventory\\Forms\\PurchaseInvoiceForm.cs",
+              "ToolTip": "N:\\Projects\\2024\\Inventory\\Inventory\\Forms\\PurchaseInvoiceForm.cs",
+              "RelativeToolTip": "Inventory\\Forms\\PurchaseInvoiceForm.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAUwIEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:00:03.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TopSellingProductsForm.cs",
+              "DocumentMoniker": "N:\\Projects\\2024\\Inventory\\Inventory\\Forms\\TopSellingProductsForm.cs",
+              "RelativeDocumentMoniker": "Inventory\\Forms\\TopSellingProductsForm.cs",
+              "ToolTip": "N:\\Projects\\2024\\Inventory\\Inventory\\Forms\\TopSellingProductsForm.cs",
+              "RelativeToolTip": "Inventory\\Forms\\TopSellingProductsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:08:09.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SalesInvoiceSearchForm.cs",
+              "DocumentMoniker": "N:\\Projects\\2024\\Inventory\\Inventory\\Forms\\SalesInvoiceSearchForm.cs",
+              "RelativeDocumentMoniker": "Inventory\\Forms\\SalesInvoiceSearchForm.cs",
+              "ToolTip": "N:\\Projects\\2024\\Inventory\\Inventory\\Forms\\SalesInvoiceSearchForm.cs",
+              "RelativeToolTip": "Inventory\\Forms\\SalesInvoiceSearchForm.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADgvzQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:01:12.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
