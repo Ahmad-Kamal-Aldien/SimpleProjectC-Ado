@@ -1,0 +1,66 @@
+CREATE DATABASE InventoryDB;
+GO
+
+USE InventoryDB;
+GO
+
+-- جدول المستخدمين
+CREATE TABLE Users (
+    UserID INT PRIMARY KEY IDENTITY(1,1),
+    EmployeeName NVARCHAR(100) NOT NULL,
+    Username NVARCHAR(50) NOT NULL UNIQUE,
+    Password NVARCHAR(50) NOT NULL
+);
+GO
+
+-- جدول المنتجات
+CREATE TABLE Products (
+    ProductID INT PRIMARY KEY IDENTITY(1,1),
+    ProductName NVARCHAR(100) NOT NULL,
+    PurchasePrice DECIMAL(18,2) NOT NULL,
+    Quantity INT NOT NULL,
+    SellingPrice DECIMAL(18,2) NOT NULL
+);
+GO
+
+-- جدول فواتير المبيعات (Master)
+CREATE TABLE SalesInvoices (
+    InvoiceID INT PRIMARY KEY IDENTITY(1,1),
+    CustomerName NVARCHAR(100) NOT NULL,
+    TotalAmount DECIMAL(18,2) NOT NULL,
+    InvoiceDate DATE NOT NULL
+);
+GO
+
+-- جدول تفاصيل فواتير المبيعات (Details)
+CREATE TABLE SalesInvoiceDetails (
+    DetailID INT PRIMARY KEY IDENTITY(1,1),
+    InvoiceID INT NOT NULL,
+    ProductID INT NOT NULL,
+    Quantity INT NOT NULL,
+    SellingPrice DECIMAL(18,2) NOT NULL,
+    FOREIGN KEY (InvoiceID) REFERENCES SalesInvoices(InvoiceID),
+    FOREIGN KEY (ProductID) REFERENCES Products(ProductID)
+);
+GO
+
+-- جدول فواتير المشتريات (Master)
+CREATE TABLE PurchaseInvoices (
+    InvoiceID INT PRIMARY KEY IDENTITY(1,1),
+    SupplierName NVARCHAR(100) NOT NULL,
+    TotalAmount DECIMAL(18,2) NOT NULL,
+    InvoiceDate DATE NOT NULL
+);
+GO
+
+-- جدول تفاصيل فواتير المشتريات (Details)
+CREATE TABLE PurchaseInvoiceDetails (
+    DetailID INT PRIMARY KEY IDENTITY(1,1),
+    InvoiceID INT NOT NULL,
+    ProductID INT NOT NULL,
+    Quantity INT NOT NULL,
+    PurchasePrice DECIMAL(18,2) NOT NULL,
+    FOREIGN KEY (InvoiceID) REFERENCES PurchaseInvoices(InvoiceID),
+    FOREIGN KEY (ProductID) REFERENCES Products(ProductID)
+);
+GO
